@@ -508,7 +508,7 @@ class addBookHandler extends Book implements EventHandler<ActionEvent> {
             double value = Double.parseDouble(bookPrice.getText());
             userBook.setPrice(value);
 
-            Stack<Book> bookStack = new Stack<>();
+            Stack<Book> bookStack = new Stack<>(); // creating stack
 
             bookStack.push(userBook);
             System.out.println(bookStack); // prints the stack
