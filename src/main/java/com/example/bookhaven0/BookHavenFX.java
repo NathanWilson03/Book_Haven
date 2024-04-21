@@ -511,7 +511,7 @@ class addBookHandler extends Book implements EventHandler<ActionEvent> {
             Stack<Book> bookStack = new Stack<>();
 
             bookStack.push(userBook);
-            System.out.println(bookStack);
+            System.out.println(bookStack); // prints the stack
 
 
 
