@@ -11,9 +11,10 @@ public class User {
 
 
 
-    public User(String name, String key) {
+    public User(String name, String key, List<String> collection) {
         userName = name;
         password = key;
+
 
 
     }
@@ -35,7 +36,7 @@ public class User {
 
     @Override
     public String toString() {
-        return "username= " + userName + ", password= " + password ;
+        return userName + "\n" ;
     }
 
 

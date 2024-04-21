@@ -1,20 +1,28 @@
 package com.example.bookhaven0;
 
+import java.io.BufferedWriter;
+import java.io.FileWriter;
+import java.io.IOException;
+
 public class Book {
+
+    private String title;
 
     private String author;
     private int code;
-    private int age;
+    private double price;
+
 
 
     Book(){
 
     }
 
-    Book(String writer, int bookID, int years ){
+    Book(String writer, int bookID, String name, double value ){
         this.author = writer;
         this.code = bookID;
-        this.age = years;
+        this.title = name;
+        this.price = value;
     }
 
     public String getAuthor() {
@@ -34,13 +42,24 @@ public class Book {
         this.code = code;
     }
 
-    public int getAge() {
-        return age;
+    public String getTitle(){
+        return title;
+    }
+    public void setTitle(String title){
+        this.title = title;
+    }
+    public double getPrice() {
+        return price;
     }
 
-    public void setAge(int age) {
-        this.age = age;
+    public void setPrice(double price) {
+        this.price = price;
     }
 
+
+
+public String toString(){
+        return code + ", " + title + ", " + author + ", " + price;
+}
 
 }
