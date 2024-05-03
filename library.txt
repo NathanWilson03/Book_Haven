@@ -1,0 +1,55 @@
+To Kill a Mockingbird, 0001, Harper Lee, 25.99
+1984, 0002, George Orwell, 19.95
+The Great Gatsby, 0003, F. Scott Fitzgerald, 21.50
+The Catcher in the Rye, 0004, J.D. Salinger, 18.75
+Pride and Prejudice, 0005, Jane Austen, 22.99
+The Hobbit, 0006, J.R.R. Tolkien, 28.49
+Harry Potter and the Sorcerer's Stone, 0007, J.K. Rowling, 29.99
+The Lord of the Rings, 0008, J.R.R. Tolkien, 33.75
+The Da Vinci Code, 0009, Dan Brown, 24.95
+The Alchemist, 0010, Paulo Coelho, 20.00
+To Kill a Mockingbird, 0011, Harper Lee, 26.99
+The Catcher in the Rye, 0012, J.D. Salinger, 17.95
+The Great Gatsby, 0013, F. Scott Fitzgerald, 23.50
+The Hobbit, 0014, J.R.R. Tolkien, 30.99
+Harry Potter and the Sorcerer's Stone, 0015, J.K. Rowling, 28.99
+Animal Farm, 0016, George Orwell, 19.75
+Brave New World, 0017, Aldous Huxley, 24.49
+The Hunger Games, 0018, Suzanne Collins, 26.95
+The Chronicles of Narnia, 0019, C.S. Lewis, 29.50
+The Kite Runner, 0020, Khaled Hosseini, 27.99
+Lord of the Flies, 0021, William Golding, 20.25
+The Grapes of Wrath, 0022, John Steinbeck, 22.99
+Gone with the Wind, 0023, Margaret Mitchell, 31.75
+The Picture of Dorian Gray, 0024, Oscar Wilde, 18.50
+Fahrenheit 451, 0025, Ray Bradbury, 25.95
+The Shining, 0026, Stephen King, 29.99
+A Tale of Two Cities, 0027, Charles Dickens, 21.95
+Moby-Dick, 0028, Herman Melville, 27.50
+The Road, 0029, Cormac McCarthy, 26.25
+The Adventures of Huckleberry Finn, 0030, Mark Twain, 23.00
+Crime and Punishment, 0031, Fyodor Dostoevsky, 30.49
+Anna Karenina, 0032, Leo Tolstoy, 32.99
+The Bell Jar, 0033, Sylvia Plath, 19.95
+Wuthering Heights, 0034, Emily Brontë, 22.75
+Frankenstein, 0035, Mary Shelley, 24.99
+Jane Eyre, 0036, Charlotte Brontë, 27.25
+Dracula, 0037, Bram Stoker, 26.50
+War and Peace, 0038, Leo Tolstoy, 34.95
+Catch-22, 0039, Joseph Heller, 28.25
+One Hundred Years of Solitude, 0040, Gabriel García Márquez, 29.99
+The Count of Monte Cristo, 0041, Alexandre Dumas, 32.50
+The Odyssey, 0042, Homer, 23.95
+The Divine Comedy, 0043, Dante Alighieri, 20.50
+The Sun Also Rises, 0044, Ernest Hemingway, 24.75
+The Color Purple, 0045, Alice Walker, 26.99
+The Outsiders, 0046, S.E. Hinton, 21.25
+The Handmaid's Tale, 0047, Margaret Atwood, 27.49
+A Clockwork Orange, 0048, Anthony Burgess, 22.95
+The Old Man and the Sea, 0049, Ernest Hemingway, 19.99
+Of Mice and Men, 0050, John Steinbeck, 18.95
+Harry Potter and the Chamber of Secrets, 0051, J.K. Rowling, 27.99
+Harry Potter and the Prisoner of Azkaban, 0052, J.K. Rowling, 28.50
+Harry Potter and the Goblet of Fire, 0053, J.K. Rowling, 31.25
+Harry Potter and the Order of the Phoenix, 0054, J.K. Rowling, 29.95
+Harry Potter and the Half-Blood Prince, 0055, J.K. Rowling, 30.75

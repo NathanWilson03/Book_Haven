@@ -7,7 +7,12 @@ public class User {
 
     private String userName;
     private String password;
+
     private List<String> bookCollection = new ArrayList<>();
+
+    public User(){
+
+    }
 
 
 
@@ -34,9 +39,18 @@ public class User {
         this.password = password;
     }
 
+    public List<String> getBookCollection() {
+        return bookCollection;
+    }
+
+    public void setBookCollection(List<String> bookCollection) {
+        this.bookCollection = bookCollection;
+    }
+
+
     @Override
     public String toString() {
-        return userName + "\n" ; //toString
+        return userName + ", " + password + "\n";
     }
 
 

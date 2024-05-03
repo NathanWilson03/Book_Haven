@@ -59,7 +59,7 @@ public class Book {
 
 
 public String toString(){
-        return code + ", " + title + ", " + author + ", " + price; // toString
+        return title + ", " + code + ", " + author + ", " + price + "\n"; // toString
 }
 
 }
